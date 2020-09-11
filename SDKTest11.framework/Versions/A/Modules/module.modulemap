@@ -1,6 +1,0 @@
-framework module SDKTest11 {
-  umbrella header "SDKTest11.h"
-
-  export *
-  module * { export * }
-}

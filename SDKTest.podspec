@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SDKTest"
-  spec.version      = "1.0.0"
+  spec.version      = "3.0.0"
   spec.summary      = "A short demo of SDKTest."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/ljx66/podTest.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/ljx66/podTest.git", :tag => "3.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -92,7 +92,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "SDKTest", "*.{h,m}"
-#spec.exclude_files = "SDKTest/Exclude"
+#spec.exclude_files = "SDKTest11/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
